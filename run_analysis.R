@@ -1,3 +1,4 @@
+## IMPORTANT! : This code was created with R version 3.1.1, on Windows SO
 #################################################################################################################
 ## Check if the packages required are already installed.
 
